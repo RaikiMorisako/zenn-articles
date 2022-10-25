@@ -1,0 +1,22 @@
+{
+  "name": "zenn-articles",
+  "version": "1.0.0",
+  "description": "https://zenn.dev/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/so298/zenn-articles.git"
+  },
+  "author": "Sosuke Hosokawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/so298/zenn-articles/issues"
+  },
+  "homepage": "https://github.com/so298/zenn-articles#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.131"
+  }
+}
